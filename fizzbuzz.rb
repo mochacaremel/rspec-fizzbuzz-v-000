@@ -8,4 +8,3 @@ elsif int % 4 == 0
 elsif int % 15 == 0
   "FizzBuzz"
   end
-end
