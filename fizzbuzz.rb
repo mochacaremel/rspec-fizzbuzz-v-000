@@ -1,4 +1,4 @@
-def fizzbuzz
+require_relative './spec_helper.rb'
   fizz_3 = fizzbuzz(3)
   puts = "Fizz"
   fizz_5 = fizzbuzz(5)
