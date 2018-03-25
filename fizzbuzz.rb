@@ -1,7 +1,7 @@
 fizzbuzz(int)
    if int % 5
      "Fizz"
-   elsif int % 3 
+   elsif int % 3
      "Buzz"
   elsif !int % 3 && 5
     "nil"
