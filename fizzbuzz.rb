@@ -1,10 +1,15 @@
-def fizzbuzz(int)
+def fizzbuzz(3)
    if int % 3 == 0
      "Fizz"
-   elsif int % 3 && 5
-     nil
-    if int % 5 == 0
-    "Buzz"
+end
+
+def fizzbuzz(5)
+   if int % 3 && 5
+     "Buzz"
+end
+def fizzbuzz()
+elsif int ! % 5 == 0
+    "nil"
   elsif fizz_15 = int / 3 && 5
     FizzBuzz
    end
