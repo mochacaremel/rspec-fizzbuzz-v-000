@@ -10,8 +10,10 @@ end
 def fizzbuzz()
 elsif int ! % 5 == 0
     "nil"
-  elsif fizz_15 = int / 3 && 5
-    FizzBuzz
+end
+def fizzbuzz(4)
+  if int % == 4
+    "FizzBuzz"
    end
   end
 
