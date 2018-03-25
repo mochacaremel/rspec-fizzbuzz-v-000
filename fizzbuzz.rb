@@ -2,19 +2,19 @@ def fizzbuzz(3)
    if int % 3 == 0
      "Fizz"
 end
-
-def fizzbuzz(5)
-   if int % 3 && 5
-     "Buzz"
-end
-def fizzbuzz()
-elsif int ! % 5 == 0
-    "nil"
-end
-def fizzbuzz(4)
-  if int % == 4
-    "FizzBuzz"
-   end
+# 
+# def fizzbuzz(5)
+#    if int % 3 && 5
+#      "Buzz"
+# end
+# def fizzbuzz()
+# elsif int ! % 5 == 0
+#     "nil"
+# end
+# def fizzbuzz(4)
+#   if int % == 4
+#     "FizzBuzz"
+#    end
 
 
 
