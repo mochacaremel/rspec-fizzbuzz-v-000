@@ -1,5 +1,6 @@
 def fizzbuzz(int)
-   if int % 5
+   if int % 3
+     fizz_3 = fizzbuzz(3)
      "Fizz"
    elsif int % 3
      "Buzz"
