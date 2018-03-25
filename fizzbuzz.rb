@@ -1,14 +1,17 @@
 def fizzbuzz(int)
    if int % 3 == 0
      "Fizz"
-if int % 5 == 0
+elsif int % 5 == 0
     "Buzz"
-if int % 4 == 0
+elsif int % 4 == 0
     "nil"
 if int % 3 && int % 5
   "FizzBuzz"
   end
 end
+
+
+
 #
 # def fizzbuzz(5)
 #    if int % 3 && 5
