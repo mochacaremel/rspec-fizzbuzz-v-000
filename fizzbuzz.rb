@@ -5,7 +5,7 @@ elsif int % 5 == 0
     "Buzz"
 elsif int % 4 == 0
     nil
-elsif int % 3 && 5
+elsif int % 15
   "FizzBuzz"
   end
 end
