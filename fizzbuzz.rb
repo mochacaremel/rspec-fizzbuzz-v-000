@@ -3,6 +3,9 @@ def fizzbuzz(int)
      "Fizz"
    end
 end
+def fizz_5
+  if int % 5 == 0
+    "Buzz"
 #
 # def fizzbuzz(5)
 #    if int % 3 && 5
