@@ -2,17 +2,17 @@ def fizzbuzz(3)
   if int % 3 == 0 # if the number int is divisible by 3
     "Fizz" # Go fizz
   end
-
-def fizzbuzz(5)
-  if int % 5 == 0 # if the number int is divisible by 3
-    "Buzz" # Go fizz
-  end
-
-def fizzbuzz(15)
-  if int % 3 && 5
-    "FizzBuzz"
-  end
-end
+# 
+# def fizzbuzz(5)
+#   if int % 5 == 0 # if the number int is divisible by 3
+#     "Buzz" # Go fizz
+#   end
+# 
+# def fizzbuzz(15)
+#   if int % 3 && 5
+#     "FizzBuzz"
+#   end
+# end
 
 
 # fizzbuzz
