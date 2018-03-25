@@ -15,7 +15,7 @@ def fizzbuzz(4)
   if int % == 4
     "FizzBuzz"
    end
-  end
+
 
 
 
