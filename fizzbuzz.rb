@@ -3,8 +3,6 @@ def fizzbuzz(int)
      "Fizz"
    elsif int % 3 && 5
      nil
-end
-  def fizzbuzz(int)
     if int % 5 == 0
     "Buzz"
   elsif fizz_15 = int / 3 && 5
