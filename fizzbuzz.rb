@@ -3,7 +3,7 @@ def fizzbuzz(int)
      "Fizz"
    elsif int % 3 && 5
      nil
-  elsif int % 5 == 0
+  elsif fizz_5 = int % 5 == 0
     "Buzz"
   elsif fizz_15 = int % 3 && 5
     FizzBuzz
